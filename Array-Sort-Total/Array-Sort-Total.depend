@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1547302609 source:c:\users\54rai\onedrive\云盘\学习总结\算法\排序算法\array-sort-total\main.c
+	"sort.h"
+
+1547302765 c:\users\54rai\onedrive\云盘\学习总结\算法\排序算法\array-sort-total\sort.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+
+1547295699 source:c:\users\54rai\onedrive\云盘\学习总结\算法\排序算法\array-sort-total\time.c
+	"sort.h"
+
+1547203084 source:c:\users\54rai\onedrive\云盘\学习总结\算法\排序算法\array-sort-total\冒泡排序.c
+	"sort.h"
+
+1547271653 source:c:\users\54rai\onedrive\云盘\学习总结\算法\排序算法\array-sort-total\归并排序.c
+	"sort.h"
+
+1547271464 source:c:\users\54rai\onedrive\云盘\学习总结\算法\排序算法\array-sort-total\选择排序.c
+	"sort.h"
+
+1547285492 source:c:\users\54rai\onedrive\云盘\学习总结\算法\排序算法\array-sort-total\插入排序.c
+	"sort.h"
+
+1547289312 source:c:\users\54rai\onedrive\云盘\学习总结\算法\排序算法\array-sort-total\希尔排序.c
+	"sort.h"
+
+1547293392 source:c:\users\54rai\onedrive\云盘\学习总结\算法\排序算法\array-sort-total\快速排序.c
+	"sort.h"
+
+1547293997 source:c:\users\54rai\onedrive\云盘\学习总结\算法\排序算法\array-sort-total\堆排序.c
+	"sort.h"
+
+1547294831 source:c:\users\54rai\onedrive\云盘\学习总结\算法\排序算法\array-sort-total\计数排序.c
+	"sort.h"
+
+1547302057 source:c:\users\54rai\onedrive\云盘\学习总结\算法\排序算法\array-sort-total\桶排序.c
+	"sort.h"
+
+1547303093 source:c:\users\54rai\onedrive\云盘\学习总结\算法\排序算法\array-sort-total\基数排序.c
+	"sort.h"
+
