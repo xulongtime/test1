@@ -9,6 +9,7 @@ int testResult( int n ,int *num1, int *num2, long long len);
 /*√∞≈›≈≈–Ú*/
 void maopaoSort( int *num, long long len);
 
+
 /*—°‘Ò≈≈–Ú*/
 void selectSort(int *num,long long len);
 
